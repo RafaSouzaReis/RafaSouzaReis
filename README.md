@@ -29,7 +29,9 @@
 
 **🐱 My GitHub Data** 
 
-> 📦 65.7 kB Used in GitHub's Storage 
+> 📦 65.8 kB Used in GitHub's Storage 
+ > 
+> 🏆 17 Contributions in the Year 2025
  > 
 > 💼 Opted to Hire
  > 
@@ -37,6 +39,45 @@
  > 
 > 🔑 0 Private Repositories 
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                14 commits          █████████░░░░░░░░░░░░░░░░   35.90 % 
+🌆 Daytime                25 commits          ████████████████░░░░░░░░░   64.10 % 
+🌃 Evening                0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+🌙 Night                  0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+```
+📅 **I'm Most Productive on Friday** 
+
+```text
+Monday                   7 commits           ████░░░░░░░░░░░░░░░░░░░░░   17.95 % 
+Tuesday                  8 commits           █████░░░░░░░░░░░░░░░░░░░░   20.51 % 
+Wednesday                4 commits           ███░░░░░░░░░░░░░░░░░░░░░░   10.26 % 
+Thursday                 7 commits           ████░░░░░░░░░░░░░░░░░░░░░   17.95 % 
+Friday                   13 commits          ████████░░░░░░░░░░░░░░░░░   33.33 % 
+Saturday                 0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Sunday                   0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: America/Sao_Paulo
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
 **I Mostly Code in JavaScript** 
 
 ```text
@@ -54,7 +95,7 @@ Java                     2 repos             ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/RafaSouzaReis/RafaSouzaReis/main/assets/bar_graph.png)
 
 
- Last Updated on 27/03/2025 18:44:23 UTC
+ Last Updated on 28/03/2025 18:46:14 UTC
 <!--END_SECTION:waka-->
 
   ##
