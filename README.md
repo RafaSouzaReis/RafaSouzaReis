@@ -102,5 +102,5 @@ Java                     2 repos             ██░░░░░░░░░�
   <img align="right" alt="Rafa-Anime-cute" height="148" width="128" src="https://i.pinimg.com/originals/24/be/9c/24be9c8a3f8f9c7ee38e7a37e7ba7243.gif">
   <a href="https://www.linkedin.com/in/rafaelaugustoreis/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href = "https://pt.stackoverflow.com/users/254937/lniilisl"><img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" target="_blank"></a>
- <img src="https://raw.githubusercontent.com/gitUser/gitrepo/output/snake.svg" alt="Snake animation" />
+ <img src="https://raw.githubusercontent.com/RafaSouzaReis/RafaSouzaReis/output/snake.svg" alt="Snake animation" />
 </div>
