@@ -29,8 +29,6 @@
 
 > 📦 97.1 kB Used in GitHub's Storage 
  > 
-> 🏆 92 Contributions in the Year 2025
- > 
 > 💼 Opted to Hire
  > 
 > 📜 23 Public Repositories 
@@ -64,16 +62,16 @@ Sunday                   0 commits           ░░░░░░░░░░░�
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-JavaScript               2 hrs 12 mins       █████████████████████████   100.00 % 
+JavaScript               1 hr 33 mins        █████████████████████████   100.00 % 
 
 🔥 Editors: 
-VS Code                  2 hrs 12 mins       █████████████████████████   100.00 % 
+VS Code                  1 hr 33 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-pancakebank              2 hrs 12 mins       █████████████████████████   100.00 % 
+pancakebank              1 hr 33 mins        █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    2 hrs 12 mins       █████████████████████████   100.00 % 
+Linux                    1 hr 33 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -93,7 +91,7 @@ Java                     2 repos             ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/RafaSouzaReis/RafaSouzaReis/main/assets/bar_graph.png)
 
 
- Last Updated on 14/08/2025 18:50:48 UTC
+ Last Updated on 15/08/2025 18:49:29 UTC
 <!--END_SECTION:waka-->
 
   ##
