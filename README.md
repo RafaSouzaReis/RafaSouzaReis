@@ -29,8 +29,6 @@
 
 > 📦 97.1 kB Used in GitHub's Storage 
  > 
-> 🏆 110 Contributions in the Year 2025
- > 
 > 💼 Opted to Hire
  > 
 > 📜 23 Public Repositories 
@@ -93,7 +91,7 @@ Java                     2 repos             ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/RafaSouzaReis/RafaSouzaReis/main/assets/bar_graph.png)
 
 
- Last Updated on 16/08/2025 18:45:17 UTC
+ Last Updated on 17/08/2025 18:47:01 UTC
 <!--END_SECTION:waka-->
 
   ##
