@@ -19,7 +19,7 @@
 </div>
  
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-285%20hrs%2029%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-285%20hrs%2053%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -64,16 +64,16 @@ Sunday                   0 commits           ░░░░░░░░░░░�
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-JavaScript               7 hrs 9 mins        █████████████████████████   100.00 % 
+JavaScript               3 hrs 31 mins       █████████████████████████   100.00 % 
 
 🔥 Editors: 
-VS Code                  7 hrs 9 mins        █████████████████████████   100.00 % 
+VS Code                  3 hrs 31 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-pancakebank              7 hrs 9 mins        █████████████████████████   100.00 % 
+pancakebank              3 hrs 31 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    7 hrs 9 mins        █████████████████████████   100.00 % 
+Linux                    3 hrs 31 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -93,7 +93,7 @@ HTML                     2 repos             ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/RafaSouzaReis/RafaSouzaReis/main/assets/bar_graph.png)
 
 
- Last Updated on 04/09/2025 18:44:17 UTC
+ Last Updated on 05/09/2025 18:43:17 UTC
 <!--END_SECTION:waka-->
 
   ##
