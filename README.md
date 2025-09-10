@@ -19,7 +19,7 @@
 </div>
  
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-287%20hrs%2020%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-288%20hrs%2016%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -28,6 +28,8 @@
 **🐱 My GitHub Data** 
 
 > 📦 97.3 kB Used in GitHub's Storage 
+ > 
+> 🏆 131 Contributions in the Year 2025
  > 
 > 💼 Opted to Hire
  > 
@@ -62,16 +64,21 @@ Sunday                   0 commits           ░░░░░░░░░░░�
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-JavaScript               3 hrs 24 mins       █████████████████████████   100.00 % 
+JavaScript               2 hrs 53 mins       ████████████████████████░   94.42 % 
+YAML                     4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.29 % 
+JSON                     3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.10 % 
+Git Config               2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.17 % 
+INI                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 
 🔥 Editors: 
-VS Code                  3 hrs 24 mins       █████████████████████████   100.00 % 
+VS Code                  3 hrs 4 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-pancakebank              3 hrs 24 mins       █████████████████████████   100.00 % 
+pancakebank              1 hr 50 mins        ███████████████░░░░░░░░░░   60.14 % 
+whats-bot                1 hr 13 mins        ██████████░░░░░░░░░░░░░░░   39.86 % 
 
 💻 Operating System: 
-Linux                    3 hrs 24 mins       █████████████████████████   100.00 % 
+Linux                    3 hrs 4 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -91,7 +98,7 @@ HTML                     2 repos             ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/RafaSouzaReis/RafaSouzaReis/main/assets/bar_graph.png)
 
 
- Last Updated on 09/09/2025 18:43:06 UTC
+ Last Updated on 10/09/2025 18:44:58 UTC
 <!--END_SECTION:waka-->
 
   ##
