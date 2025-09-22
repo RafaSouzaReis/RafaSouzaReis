@@ -19,6 +19,8 @@
 </div>
  
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-296%20hrs-blue)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-27.0%20thousand%20lines%20of%20code-blue)
@@ -35,6 +37,46 @@
  > 
 > 🔑 2 Private Repositories 
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                34 commits          ████████░░░░░░░░░░░░░░░░░   30.36 % 
+🌆 Daytime                78 commits          █████████████████░░░░░░░░   69.64 % 
+🌃 Evening                0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+🌙 Night                  0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+```
+📅 **I'm Most Productive on Wednesday** 
+
+```text
+Monday                   16 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.29 % 
+Tuesday                  21 commits          █████░░░░░░░░░░░░░░░░░░░░   18.75 % 
+Wednesday                26 commits          ██████░░░░░░░░░░░░░░░░░░░   23.21 % 
+Thursday                 24 commits          █████░░░░░░░░░░░░░░░░░░░░   21.43 % 
+Friday                   25 commits          ██████░░░░░░░░░░░░░░░░░░░   22.32 % 
+Saturday                 0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Sunday                   0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: America/Sao_Paulo
+
+💬 Programming Languages: 
+JavaScript               4 hrs 51 mins       █████████████████████████   99.22 % 
+JSON                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.78 % 
+
+🔥 Editors: 
+VS Code                  4 hrs 53 mins       █████████████████████████   100.00 % 
+
+🐱‍💻 Projects: 
+pancakebank              4 hrs 53 mins       █████████████████████████   100.00 % 
+
+💻 Operating System: 
+Linux                    4 hrs 53 mins       █████████████████████████   100.00 % 
+```
+
 **I Mostly Code in JavaScript** 
 
 ```text
@@ -52,7 +94,7 @@ HTML                     2 repos             ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/RafaSouzaReis/RafaSouzaReis/main/assets/bar_graph.png)
 
 
- Last Updated on 20/09/2025 18:39:58 UTC
+ Last Updated on 22/09/2025 18:44:30 UTC
 <!--END_SECTION:waka-->
 
   ##
