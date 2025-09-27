@@ -19,7 +19,7 @@
 </div>
  
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-297%20hrs%2037%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-298%20hrs%201%20min-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -37,45 +37,6 @@
  > 
 > 🔑 2 Private Repositories 
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                34 commits          ████████░░░░░░░░░░░░░░░░░   30.36 % 
-🌆 Daytime                78 commits          █████████████████░░░░░░░░   69.64 % 
-🌃 Evening                0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-🌙 Night                  0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-```
-📅 **I'm Most Productive on Wednesday** 
-
-```text
-Monday                   16 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.29 % 
-Tuesday                  21 commits          █████░░░░░░░░░░░░░░░░░░░░   18.75 % 
-Wednesday                26 commits          ██████░░░░░░░░░░░░░░░░░░░   23.21 % 
-Thursday                 24 commits          █████░░░░░░░░░░░░░░░░░░░░   21.43 % 
-Friday                   25 commits          ██████░░░░░░░░░░░░░░░░░░░   22.32 % 
-Saturday                 0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Sunday                   0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: America/Sao_Paulo
-
-💬 Programming Languages: 
-JavaScript               3 hrs 29 mins       █████████████████████████   100.00 % 
-
-🔥 Editors: 
-VS Code                  3 hrs 29 mins       █████████████████████████   100.00 % 
-
-🐱‍💻 Projects: 
-pancakebank              3 hrs 29 mins       █████████████████████████   100.00 % 
-
-💻 Operating System: 
-Linux                    3 hrs 29 mins       █████████████████████████   100.00 % 
-```
-
 **I Mostly Code in JavaScript** 
 
 ```text
@@ -93,7 +54,7 @@ HTML                     2 repos             ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/RafaSouzaReis/RafaSouzaReis/main/assets/bar_graph.png)
 
 
- Last Updated on 26/09/2025 18:43:50 UTC
+ Last Updated on 27/09/2025 18:41:21 UTC
 <!--END_SECTION:waka-->
 
   ##
