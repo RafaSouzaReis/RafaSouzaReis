@@ -19,6 +19,8 @@
 </div>
  
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-303%20hrs%2029%20mins-blue)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-27.0%20thousand%20lines%20of%20code-blue)
@@ -27,7 +29,7 @@
 
 > 📦 97.3 kB Used in GitHub's Storage 
  > 
-> 🏆 136 Contributions in the Year 2025
+> 🏆 137 Contributions in the Year 2025
  > 
 > 💼 Opted to Hire
  > 
@@ -35,6 +37,46 @@
  > 
 > 🔑 2 Private Repositories 
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                34 commits          ████████░░░░░░░░░░░░░░░░░   30.09 % 
+🌆 Daytime                79 commits          █████████████████░░░░░░░░   69.91 % 
+🌃 Evening                0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+🌙 Night                  0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+```
+📅 **I'm Most Productive on Wednesday** 
+
+```text
+Monday                   16 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.16 % 
+Tuesday                  21 commits          █████░░░░░░░░░░░░░░░░░░░░   18.58 % 
+Wednesday                26 commits          ██████░░░░░░░░░░░░░░░░░░░   23.01 % 
+Thursday                 24 commits          █████░░░░░░░░░░░░░░░░░░░░   21.24 % 
+Friday                   26 commits          ██████░░░░░░░░░░░░░░░░░░░   23.01 % 
+Saturday                 0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Sunday                   0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: America/Sao_Paulo
+
+💬 Programming Languages: 
+JavaScript               5 hrs 9 mins        █████████████████████████   99.51 % 
+Bash                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.49 % 
+
+🔥 Editors: 
+VS Code                  5 hrs 10 mins       █████████████████████████   100.00 % 
+
+🐱‍💻 Projects: 
+pancakebank              5 hrs 10 mins       █████████████████████████   100.00 % 
+
+💻 Operating System: 
+Linux                    5 hrs 10 mins       █████████████████████████   100.00 % 
+```
+
 **I Mostly Code in JavaScript** 
 
 ```text
@@ -52,7 +94,7 @@ HTML                     2 repos             ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/RafaSouzaReis/RafaSouzaReis/main/assets/bar_graph.png)
 
 
- Last Updated on 03/10/2025 18:44:06 UTC
+ Last Updated on 05/10/2025 18:41:41 UTC
 <!--END_SECTION:waka-->
 
   ##
