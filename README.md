@@ -19,7 +19,7 @@
 </div>
  
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-312%20hrs%2019%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-313%20hrs%2042%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -99,7 +99,7 @@ HTML                     2 repos             ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/RafaSouzaReis/RafaSouzaReis/main/assets/bar_graph.png)
 
 
- Last Updated on 13/10/2025 18:45:16 UTC
+ Last Updated on 14/10/2025 18:46:23 UTC
 <!--END_SECTION:waka-->
 
   ##
