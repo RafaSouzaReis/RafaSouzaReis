@@ -19,9 +19,9 @@
 </div>
  
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-329%20hrs%2051%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-332%20hrs%2038%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-29.7%20thousand%20lines%20of%20code-blue)
 
@@ -64,21 +64,19 @@ Sunday                   0 commits           ░░░░░░░░░░░�
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-JavaScript               7 hrs 46 mins       ███████████████████████░░   92.71 % 
-JSON                     24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.88 % 
-Other                    11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.22 % 
-Git Config               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 % 
-INI                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
+JavaScript               8 hrs 48 mins       ████████████████████████░   96.03 % 
+JSON                     19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.56 % 
+Other                    2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.36 % 
+Git Config               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
 
 🔥 Editors: 
-VS Code                  8 hrs 23 mins       █████████████████████████   100.00 % 
+VS Code                  9 hrs 10 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-pancakebank              8 hrs 14 mins       █████████████████████████   98.22 % 
-bot-whats-sticker        8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.78 % 
+pancakebank              9 hrs 10 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    8 hrs 23 mins       █████████████████████████   100.00 % 
+Linux                    9 hrs 10 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -98,7 +96,7 @@ HTML                     2 repos             ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/RafaSouzaReis/RafaSouzaReis/main/assets/bar_graph.png)
 
 
- Last Updated on 28/10/2025 18:49:30 UTC
+ Last Updated on 29/10/2025 18:47:59 UTC
 <!--END_SECTION:waka-->
 
   ##
