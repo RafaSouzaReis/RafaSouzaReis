@@ -19,15 +19,17 @@
 </div>
  
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-339%20hrs%2030%20mins-blue)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-31.5%20thousand%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-32.0%20thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 97.9 kB Used in GitHub's Storage 
  > 
-> 🏆 156 Contributions in the Year 2025
+> 🏆 159 Contributions in the Year 2025
  > 
 > 💼 Opted to Hire
  > 
@@ -35,6 +37,50 @@
  > 
 > 🔑 5 Private Repositories 
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                38 commits          ███████░░░░░░░░░░░░░░░░░░   28.79 % 
+🌆 Daytime                94 commits          ██████████████████░░░░░░░   71.21 % 
+🌃 Evening                0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+🌙 Night                  0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+```
+📅 **I'm Most Productive on Thursday** 
+
+```text
+Monday                   21 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.91 % 
+Tuesday                  24 commits          █████░░░░░░░░░░░░░░░░░░░░   18.18 % 
+Wednesday                29 commits          █████░░░░░░░░░░░░░░░░░░░░   21.97 % 
+Thursday                 30 commits          ██████░░░░░░░░░░░░░░░░░░░   22.73 % 
+Friday                   28 commits          █████░░░░░░░░░░░░░░░░░░░░   21.21 % 
+Saturday                 0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Sunday                   0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: America/Sao_Paulo
+
+💬 Programming Languages: 
+JavaScript               11 hrs 59 mins      ███████████████████░░░░░░   74.84 % 
+Java                     2 hrs 1 min         ███░░░░░░░░░░░░░░░░░░░░░░   12.68 % 
+JSON                     1 hr 9 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.24 % 
+XML                      29 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.10 % 
+Bash                     13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.38 % 
+
+🔥 Editors: 
+VS Code                  16 hrs              █████████████████████████   100.00 % 
+
+🐱‍💻 Projects: 
+pancakebank              13 hrs 9 mins       █████████████████████░░░░   82.12 % 
+ags-unissex              2 hrs 51 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.88 % 
+
+💻 Operating System: 
+Linux                    16 hrs              █████████████████████████   100.00 % 
+```
+
 **I Mostly Code in JavaScript** 
 
 ```text
@@ -52,7 +98,7 @@ HTML                     2 repos             ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/RafaSouzaReis/RafaSouzaReis/main/assets/bar_graph.png)
 
 
- Last Updated on 03/11/2025 18:43:59 UTC
+ Last Updated on 04/11/2025 18:47:44 UTC
 <!--END_SECTION:waka-->
 
   ##
