@@ -19,17 +19,17 @@
 </div>
  
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-347%20hrs%2023%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-347%20hrs%2028%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-35.1%20thousand%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-35.2%20thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 98.0 kB Used in GitHub's Storage 
  > 
-> 🏆 167 Contributions in the Year 2025
+> 🏆 169 Contributions in the Year 2025
  > 
 > 💼 Opted to Hire
  > 
@@ -40,19 +40,19 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                40 commits          ███████░░░░░░░░░░░░░░░░░░   28.57 % 
-🌆 Daytime                100 commits         ██████████████████░░░░░░░   71.43 % 
+🌞 Morning                40 commits          ███████░░░░░░░░░░░░░░░░░░   28.17 % 
+🌆 Daytime                102 commits         ██████████████████░░░░░░░   71.83 % 
 🌃 Evening                0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 🌙 Night                  0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 ```
 📅 **I'm Most Productive on Friday** 
 
 ```text
-Monday                   21 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.00 % 
-Tuesday                  25 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.86 % 
-Wednesday                31 commits          ██████░░░░░░░░░░░░░░░░░░░   22.14 % 
-Thursday                 31 commits          ██████░░░░░░░░░░░░░░░░░░░   22.14 % 
-Friday                   32 commits          ██████░░░░░░░░░░░░░░░░░░░   22.86 % 
+Monday                   23 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.20 % 
+Tuesday                  25 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.61 % 
+Wednesday                31 commits          █████░░░░░░░░░░░░░░░░░░░░   21.83 % 
+Thursday                 31 commits          █████░░░░░░░░░░░░░░░░░░░░   21.83 % 
+Friday                   32 commits          ██████░░░░░░░░░░░░░░░░░░░   22.54 % 
 Saturday                 0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Sunday                   0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 ```
@@ -98,7 +98,7 @@ HTML                     2 repos             ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/RafaSouzaReis/RafaSouzaReis/main/assets/bar_graph.png)
 
 
- Last Updated on 16/11/2025 18:38:08 UTC
+ Last Updated on 17/11/2025 18:40:56 UTC
 <!--END_SECTION:waka-->
 
   ##
