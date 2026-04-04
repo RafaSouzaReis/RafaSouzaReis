@@ -64,21 +64,16 @@ Sunday                   7 commits           █░░░░░░░░░░�
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-JavaScript               2 hrs 36 mins       ████████████████░░░░░░░░░   62.69 % 
-JSON                     35 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.08 % 
-TypeScript               23 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.50 % 
-Git Config               16 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.70 % 
-Prisma                   7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.91 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  4 hrs 8 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-yubel-bot-whats          2 hrs 53 mins       █████████████████░░░░░░░░   69.65 % 
-vaness-psic              1 hr 15 mins        ████████░░░░░░░░░░░░░░░░░   30.35 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Linux                    4 hrs 8 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in JavaScript** 
@@ -98,7 +93,7 @@ Nix                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/RafaSouzaReis/RafaSouzaReis/main/assets/bar_graph.png)
 
 
- Last Updated on 03/04/2026 18:45:10 UTC
+ Last Updated on 04/04/2026 18:44:48 UTC
 <!--END_SECTION:waka-->
 
   ##
