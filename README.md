@@ -19,8 +19,6 @@
 </div>
  
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-411%20hrs%2030%20mins-blue?style=flat)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-55.79%20thousand%20lines%20of%20code-blue?style=flat)
@@ -37,45 +35,6 @@
  > 
 > 🔑 10 Private Repositories 
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                54 commits          ██████░░░░░░░░░░░░░░░░░░░   24.11 % 
-🌆 Daytime                147 commits         ████████████████░░░░░░░░░   65.62 % 
-🌃 Evening                19 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.48 % 
-🌙 Night                  4 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.79 % 
-```
-📅 **I'm Most Productive on Thursday** 
-
-```text
-Monday                   41 commits          █████░░░░░░░░░░░░░░░░░░░░   18.30 % 
-Tuesday                  41 commits          █████░░░░░░░░░░░░░░░░░░░░   18.30 % 
-Wednesday                47 commits          █████░░░░░░░░░░░░░░░░░░░░   20.98 % 
-Thursday                 48 commits          █████░░░░░░░░░░░░░░░░░░░░   21.43 % 
-Friday                   38 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.96 % 
-Saturday                 1 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.45 % 
-Sunday                   8 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   03.57 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: America/Sao_Paulo
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-🐱‍💻 Projects: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-```
-
 **I Mostly Code in JavaScript** 
 
 ```text
@@ -93,7 +52,7 @@ Nix                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/RafaSouzaReis/RafaSouzaReis/main/assets/bar_graph.png)
 
 
- Last Updated on 23/07/2026 18:51:11 UTC
+ Last Updated on 24/07/2026 18:59:18 UTC
 <!--END_SECTION:waka-->
 
   ##
