@@ -19,44 +19,44 @@
 </div>
  
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-403%20hrs%2026%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-403%20hrs%2038%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-24%20hrs%2016%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-55.79%20thousand%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-55.85%20thousand%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
 > 📦 98.6 kB Used in GitHub's Storage 
  > 
-> 🏆 45 Contributions in the Year 2026
+> 🏆 47 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
-> 📜 23 Public Repositories 
+> 📜 24 Public Repositories 
  > 
 > 🔑 10 Private Repositories 
  > 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                54 commits          ██████░░░░░░░░░░░░░░░░░░░   24.11 % 
-🌆 Daytime                147 commits         ████████████████░░░░░░░░░   65.62 % 
-🌃 Evening                19 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.48 % 
-🌙 Night                  4 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.79 % 
+🌞 Morning                54 commits          ██████░░░░░░░░░░░░░░░░░░░   24.00 % 
+🌆 Daytime                148 commits         ████████████████░░░░░░░░░   65.78 % 
+🌃 Evening                19 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.44 % 
+🌙 Night                  4 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.78 % 
 ```
 📅 **I'm Most Productive on Thursday** 
 
 ```text
-Monday                   41 commits          █████░░░░░░░░░░░░░░░░░░░░   18.30 % 
-Tuesday                  41 commits          █████░░░░░░░░░░░░░░░░░░░░   18.30 % 
-Wednesday                47 commits          █████░░░░░░░░░░░░░░░░░░░░   20.98 % 
-Thursday                 48 commits          █████░░░░░░░░░░░░░░░░░░░░   21.43 % 
-Friday                   38 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.96 % 
-Saturday                 1 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.45 % 
-Sunday                   8 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   03.57 % 
+Monday                   41 commits          █████░░░░░░░░░░░░░░░░░░░░   18.22 % 
+Tuesday                  41 commits          █████░░░░░░░░░░░░░░░░░░░░   18.22 % 
+Wednesday                47 commits          █████░░░░░░░░░░░░░░░░░░░░   20.89 % 
+Thursday                 48 commits          █████░░░░░░░░░░░░░░░░░░░░   21.33 % 
+Friday                   39 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.33 % 
+Saturday                 1 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.44 % 
+Sunday                   8 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   03.56 % 
 ```
 
 
@@ -66,16 +66,16 @@ Sunday                   8 commits           █░░░░░░░░░░�
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+JavaScript               12 mins             █████████████████████████   100.00 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  12 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+Learning                 12 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Linux                    12 mins             █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -87,11 +87,11 @@ No AI Coding Activity Tracked This Week
 **I Mostly Code in JavaScript** 
 
 ```text
-JavaScript               17 repos            ███████████████░░░░░░░░░░   60.71 % 
-Java                     3 repos             ███░░░░░░░░░░░░░░░░░░░░░░   10.71 % 
-Python                   3 repos             ███░░░░░░░░░░░░░░░░░░░░░░   10.71 % 
-CSS                      3 repos             ███░░░░░░░░░░░░░░░░░░░░░░   10.71 % 
-Nix                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.57 % 
+JavaScript               18 repos            ████████████████░░░░░░░░░   62.07 % 
+Java                     3 repos             ███░░░░░░░░░░░░░░░░░░░░░░   10.34 % 
+Python                   3 repos             ███░░░░░░░░░░░░░░░░░░░░░░   10.34 % 
+CSS                      3 repos             ███░░░░░░░░░░░░░░░░░░░░░░   10.34 % 
+Nix                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.45 % 
 ```
 
 
@@ -101,7 +101,7 @@ Nix                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/RafaSouzaReis/RafaSouzaReis/main/assets/bar_graph.png)
 
 
- Last Updated on 13/08/2026 19:32:45 UTC
+ Last Updated on 14/08/2026 19:26:14 UTC
 <!--END_SECTION:waka-->
 
   ##
