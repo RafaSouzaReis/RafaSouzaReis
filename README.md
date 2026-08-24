@@ -66,45 +66,45 @@ Sunday                   8 commits           █░░░░░░░░░░�
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-JavaScript               2 hrs 41 mins       ███████████████████░░░░░░   75.92 % 
-JSON                     24 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.45 % 
-Text                     22 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.39 % 
-Git Config               2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.03 % 
-Markdown                 1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.71 % 
+JavaScript               2 hrs 12 mins       ██████████████████░░░░░░░   73.39 % 
+JSON                     22 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.25 % 
+Text                     21 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.73 % 
+Git Config               2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.21 % 
+Markdown                 1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.83 % 
 
 🔥 Editors: 
-VS Code                  3 hrs 32 mins       █████████████████████████   100.00 % 
+VS Code                  3 hrs 1 min         █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-Learning                 1 hr 32 mins        ███████████░░░░░░░░░░░░░░   43.72 % 
-Javascript               1 hr 31 mins        ███████████░░░░░░░░░░░░░░   43.27 % 
-text-to-me               27 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.91 % 
-Unknown Project          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 % 
+Javascript               1 hr 31 mins        █████████████░░░░░░░░░░░░   50.74 % 
+Learning                 1 hr 1 min          █████████░░░░░░░░░░░░░░░░   34.01 % 
+text-to-me               27 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.14 % 
+Unknown Project          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 % 
 
 💻 Operating System: 
-Linux                    3 hrs 32 mins       █████████████████████████   100.00 % 
+Linux                    3 hrs 1 min         █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 32 mins (15.45%)
+⏱ AI Coding Time: 30 mins (16.97%)
 
-✍️ 1 lines written by AI, 265 lines written by hand (0.38% AI-written)
+✍️ 1 lines written by AI, 235 lines written by hand (0.42% AI-written)
 
 🔤 30,420 Input Tokens, 172 Output Tokens
 
 💵 $0.09 Estimated AI Cost This Week
 
-🧠 3 AI Sessions, 7 AI Prompts
+🧠 2 AI Sessions, 6 AI Prompts
 
 Github-Copilot           1 lines             █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 0.38% of written lines came from AI
-📝 Concise Prompter — average 65 characters per prompt
-🔁 Iterative Prompter — average 2 prompts per session
-🔍 Hands-On Reviewer — 99.67% of changed lines were hand-edited
+🧑‍💻 Mostly Hands-On — 0.42% of written lines came from AI
+📝 Concise Prompter — average 71 characters per prompt
+🔁 Iterative Prompter — average 3 prompts per session
+🔍 Hands-On Reviewer — 99.64% of changed lines were hand-edited
 ```
 
 **I Mostly Code in JavaScript** 
@@ -124,7 +124,7 @@ Nix                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/RafaSouzaReis/RafaSouzaReis/main/assets/bar_graph.png)
 
 
- Last Updated on 23/08/2026 18:42:08 UTC
+ Last Updated on 24/08/2026 18:44:23 UTC
 <!--END_SECTION:waka-->
 
   ##
