@@ -66,44 +66,22 @@ Sunday                   8 commits           █░░░░░░░░░░�
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-JavaScript               1 hr 32 mins        ███████████████████░░░░░░   77.46 % 
-JSON                     22 mins             █████░░░░░░░░░░░░░░░░░░░░   18.56 % 
-Git Config               2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.84 % 
-Markdown                 1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.26 % 
-Other                    1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.88 % 
+JavaScript               1 hr 31 mins        █████████████████████████   100.00 % 
 
 🔥 Editors: 
-VS Code                  1 hr 59 mins        █████████████████████████   100.00 % 
+VS Code                  1 hr 31 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-Javascript               1 hr 31 mins        ███████████████████░░░░░░   76.89 % 
-text-to-me               27 mins             ██████░░░░░░░░░░░░░░░░░░░   22.95 % 
-Unknown Project          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 % 
+Javascript               1 hr 31 mins        █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    1 hr 59 mins        █████████████████████████   100.00 % 
+Linux                    1 hr 31 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 24 mins (20.47%)
-
-✍️ 1 lines written by AI, 137 lines written by hand (0.72% AI-written)
-
-🔤 30,420 Input Tokens, 172 Output Tokens
-
-💵 $0.09 Estimated AI Cost This Week
-
-🧠 2 AI Sessions, 6 AI Prompts
-
-Github-Copilot           1 lines             █████████████████████████   100.00 % 
-
-🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 0.72% of written lines came from AI
-📝 Concise Prompter — average 71 characters per prompt
-🔁 Iterative Prompter — average 3 prompts per session
-🔍 Hands-On Reviewer — 99.38% of changed lines were hand-edited
+No AI Coding Activity Tracked This Week
 ```
 
 **I Mostly Code in JavaScript** 
@@ -123,7 +101,7 @@ Nix                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/RafaSouzaReis/RafaSouzaReis/main/assets/bar_graph.png)
 
 
- Last Updated on 26/08/2026 19:13:31 UTC
+ Last Updated on 27/08/2026 21:45:34 UTC
 <!--END_SECTION:waka-->
 
   ##
