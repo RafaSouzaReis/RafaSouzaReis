@@ -19,9 +19,9 @@
 </div>
  
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-408%20hrs%2055%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-409%20hrs%2020%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-24%20hrs%2053%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-25%20hrs-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -66,22 +66,40 @@ Sunday                   8 commits           █░░░░░░░░░░�
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-JavaScript               1 hr 3 mins         █████████████████████████   100.00 % 
+JavaScript               36 mins             █████████████████████████   100.00 % 
 
 🔥 Editors: 
-VS Code                  1 hr 3 mins         █████████████████████████   100.00 % 
+VS Code                  28 mins             ████████████████████░░░░░   79.66 % 
+Copilot CLI              7 mins              █████░░░░░░░░░░░░░░░░░░░░   20.34 % 
 
 🐱‍💻 Projects: 
-Javascript               1 hr 3 mins         █████████████████████████   100.00 % 
+Javascript               36 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    1 hr 3 mins         █████████████████████████   100.00 % 
+Linux                    36 mins             █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-No AI Coding Activity Tracked This Week
+⏱ AI Coding Time: 7 mins (20.34%)
+
+✍️ 46 lines written by AI, 15 lines written by hand (75.41% AI-written)
+
+🔤 0 Input Tokens, 2,498 Output Tokens
+
+💵 $0.03 Estimated AI Cost This Week
+
+🧠 1 AI Sessions, 1 AI Prompts
+
+Sonnet                   46 lines            █████████████████████████   100.00 % 
+Github-Copilot-Cli       0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 75.41% of written lines came from AI
+📄 Detailed Prompter — average 938 characters per prompt
+🎯 One-Shot Prompter — average 1 prompts per session
+🔍 Hands-On Reviewer — 77.88% of changed lines were hand-edited
 ```
 
 **I Mostly Code in JavaScript** 
@@ -101,7 +119,7 @@ Nix                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/RafaSouzaReis/RafaSouzaReis/main/assets/bar_graph.png)
 
 
- Last Updated on 03/09/2026 18:37:57 UTC
+ Last Updated on 04/09/2026 18:35:38 UTC
 <!--END_SECTION:waka-->
 
   ##
