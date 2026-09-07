@@ -66,25 +66,25 @@ Sunday                   8 commits           █░░░░░░░░░░�
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-JavaScript               36 mins             █████████████████████████   100.00 % 
+JavaScript               24 mins             █████████████████████████   100.00 % 
 
 🔥 Editors: 
-VS Code                  28 mins             ████████████████████░░░░░   79.66 % 
-Copilot CLI              7 mins              █████░░░░░░░░░░░░░░░░░░░░   20.34 % 
+VS Code                  17 mins             ██████████████████░░░░░░░   70.20 % 
+Copilot CLI              7 mins              ███████░░░░░░░░░░░░░░░░░░   29.80 % 
 
 🐱‍💻 Projects: 
-Javascript               36 mins             █████████████████████████   100.00 % 
+Javascript               24 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    36 mins             █████████████████████████   100.00 % 
+Linux                    24 mins             █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 7 mins (20.34%)
+⏱ AI Coding Time: 7 mins (29.8%)
 
-✍️ 46 lines written by AI, 15 lines written by hand (75.41% AI-written)
+✍️ 46 lines written by AI, 1 lines written by hand (97.87% AI-written)
 
 🔤 0 Input Tokens, 2,498 Output Tokens
 
@@ -96,10 +96,10 @@ Sonnet                   46 lines            ███████████�
 Github-Copilot-Cli       0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 75.41% of written lines came from AI
+🤖 AI-Driven — 97.87% of written lines came from AI
 📄 Detailed Prompter — average 938 characters per prompt
 🎯 One-Shot Prompter — average 1 prompts per session
-🔍 Hands-On Reviewer — 77.88% of changed lines were hand-edited
+🚀 High AI Trust — 2.13% of changed lines were hand-edited
 ```
 
 **I Mostly Code in JavaScript** 
@@ -119,7 +119,7 @@ Nix                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/RafaSouzaReis/RafaSouzaReis/main/assets/bar_graph.png)
 
 
- Last Updated on 06/09/2026 18:34:01 UTC
+ Last Updated on 07/09/2026 18:37:09 UTC
 <!--END_SECTION:waka-->
 
   ##
