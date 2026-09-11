@@ -66,40 +66,22 @@ Sunday                   8 commits           █░░░░░░░░░░�
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-JavaScript               24 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  17 mins             ██████████████████░░░░░░░   70.20 % 
-Copilot CLI              7 mins              ███████░░░░░░░░░░░░░░░░░░   29.80 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-Javascript               24 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Linux                    24 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 7 mins (29.8%)
-
-✍️ 46 lines written by AI, 1 lines written by hand (97.87% AI-written)
-
-🔤 0 Input Tokens, 2,498 Output Tokens
-
-💵 $0.03 Estimated AI Cost This Week
-
-🧠 1 AI Sessions, 1 AI Prompts
-
-Sonnet                   46 lines            █████████████████████████   100.00 % 
-Github-Copilot-Cli       0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-
-🔎 AI Coding Insights:
-🤖 AI-Driven — 97.87% of written lines came from AI
-📄 Detailed Prompter — average 938 characters per prompt
-🎯 One-Shot Prompter — average 1 prompts per session
-🚀 High AI Trust — 2.13% of changed lines were hand-edited
+No AI Coding Activity Tracked This Week
 ```
 
 **I Mostly Code in JavaScript** 
@@ -119,7 +101,7 @@ Nix                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/RafaSouzaReis/RafaSouzaReis/main/assets/bar_graph.png)
 
 
- Last Updated on 10/09/2026 18:36:27 UTC
+ Last Updated on 11/09/2026 18:36:54 UTC
 <!--END_SECTION:waka-->
 
   ##
