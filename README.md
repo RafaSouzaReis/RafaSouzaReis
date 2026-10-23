@@ -19,9 +19,9 @@
 </div>
  
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-409%20hrs%2020%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-409%20hrs%2036%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-25%20hrs-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-25%20hrs%2021%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -31,32 +31,32 @@
 
 > 📦 98.7 kB Used in GitHub's Storage 
  > 
-> 🏆 55 Contributions in the Year 2026
+> 🏆 57 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
-> 📜 28 Public Repositories 
+> 📜 29 Public Repositories 
  > 
 > 🔑 10 Private Repositories 
  > 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                54 commits          ██████░░░░░░░░░░░░░░░░░░░   23.48 % 
-🌆 Daytime                153 commits         █████████████████░░░░░░░░   66.52 % 
-🌃 Evening                19 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.26 % 
-🌙 Night                  4 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.74 % 
+🌞 Morning                54 commits          ██████░░░░░░░░░░░░░░░░░░░   23.38 % 
+🌆 Daytime                154 commits         █████████████████░░░░░░░░   66.67 % 
+🌃 Evening                19 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.23 % 
+🌙 Night                  4 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.73 % 
 ```
 📅 **I'm Most Productive on Wednesday** 
 
 ```text
-Monday                   41 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.83 % 
-Tuesday                  41 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.83 % 
-Wednesday                52 commits          ██████░░░░░░░░░░░░░░░░░░░   22.61 % 
-Thursday                 48 commits          █████░░░░░░░░░░░░░░░░░░░░   20.87 % 
-Friday                   39 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.96 % 
+Monday                   41 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.75 % 
+Tuesday                  41 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.75 % 
+Wednesday                52 commits          ██████░░░░░░░░░░░░░░░░░░░   22.51 % 
+Thursday                 49 commits          █████░░░░░░░░░░░░░░░░░░░░   21.21 % 
+Friday                   39 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.88 % 
 Saturday                 1 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.43 % 
-Sunday                   8 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   03.48 % 
+Sunday                   8 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   03.46 % 
 ```
 
 
@@ -66,22 +66,42 @@ Sunday                   8 commits           █░░░░░░░░░░�
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Other                    7 mins              ████████░░░░░░░░░░░░░░░░░   32.45 % 
+JSON                     6 mins              ███████░░░░░░░░░░░░░░░░░░   28.82 % 
+JavaScript               4 mins              █████░░░░░░░░░░░░░░░░░░░░   18.90 % 
+TSConfig                 4 mins              ████░░░░░░░░░░░░░░░░░░░░░   17.48 % 
+Git Config               0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.02 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+Copilot CLI              16 mins             █████████████████░░░░░░░░   67.26 % 
+VS Code                  7 mins              ████████░░░░░░░░░░░░░░░░░   32.74 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+dino-manager             19 mins             █████████████████████░░░░   83.00 % 
+sandbox-hyper-test-and-ex4 mins              ████░░░░░░░░░░░░░░░░░░░░░   17.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Linux                    23 mins             █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-No AI Coding Activity Tracked This Week
+⏱ AI Coding Time: 20 mins (84.83%)
+
+✍️ 0 lines written by AI, 2 lines written by hand (0.0% AI-written)
+
+🔤 0 Input Tokens, 0 Output Tokens
+
+💵 $0.00 Estimated AI Cost This Week
+
+🧠 2 AI Sessions, 8 AI Prompts
+
+🔎 AI Coding Insights:
+🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
+📝 Concise Prompter — average 311 characters per prompt
+🔁 Iterative Prompter — average 4 prompts per session
+🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
 ```
 
 **I Mostly Code in JavaScript** 
@@ -101,7 +121,7 @@ Nix                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/RafaSouzaReis/RafaSouzaReis/main/assets/bar_graph.png)
 
 
- Last Updated on 22/10/2026 18:41:04 UTC
+ Last Updated on 23/10/2026 18:42:05 UTC
 <!--END_SECTION:waka-->
 
   ##
