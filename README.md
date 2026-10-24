@@ -19,7 +19,7 @@
 </div>
  
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-409%20hrs%2036%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-409%20hrs%2041%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-25%20hrs%2021%20mins-blue?style=flat)
 
@@ -66,30 +66,30 @@ Sunday                   8 commits           █░░░░░░░░░░�
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-Other                    7 mins              ████████░░░░░░░░░░░░░░░░░   32.45 % 
-JSON                     6 mins              ███████░░░░░░░░░░░░░░░░░░   28.82 % 
-JavaScript               4 mins              █████░░░░░░░░░░░░░░░░░░░░   18.90 % 
-TSConfig                 4 mins              ████░░░░░░░░░░░░░░░░░░░░░   17.48 % 
-Git Config               0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.02 % 
+JavaScript               9 mins              ████████░░░░░░░░░░░░░░░░░   32.93 % 
+Other                    7 mins              ███████░░░░░░░░░░░░░░░░░░   26.77 % 
+JSON                     6 mins              ██████░░░░░░░░░░░░░░░░░░░   23.93 % 
+TSConfig                 4 mins              ████░░░░░░░░░░░░░░░░░░░░░   14.42 % 
+Git Config               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.66 % 
 
 🔥 Editors: 
-Copilot CLI              16 mins             █████████████████░░░░░░░░   67.26 % 
-VS Code                  7 mins              ████████░░░░░░░░░░░░░░░░░   32.74 % 
+Copilot CLI              16 mins             ██████████████░░░░░░░░░░░   55.49 % 
+VS Code                  12 mins             ███████████░░░░░░░░░░░░░░   44.51 % 
 
 🐱‍💻 Projects: 
-dino-manager             19 mins             █████████████████████░░░░   83.00 % 
-sandbox-hyper-test-and-ex4 mins              ████░░░░░░░░░░░░░░░░░░░░░   17.00 % 
+dino-manager             19 mins             █████████████████░░░░░░░░   68.48 % 
+sandbox-hyper-test-and-ex9 mins              ████████░░░░░░░░░░░░░░░░░   31.52 % 
 
 💻 Operating System: 
-Linux                    23 mins             █████████████████████████   100.00 % 
+Linux                    28 mins             █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 20 mins (84.83%)
+⏱ AI Coding Time: 20 mins (69.99%)
 
-✍️ 0 lines written by AI, 2 lines written by hand (0.0% AI-written)
+✍️ 0 lines written by AI, 9 lines written by hand (0.0% AI-written)
 
 🔤 0 Input Tokens, 0 Output Tokens
 
@@ -121,7 +121,7 @@ Nix                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/RafaSouzaReis/RafaSouzaReis/main/assets/bar_graph.png)
 
 
- Last Updated on 23/10/2026 18:42:05 UTC
+ Last Updated on 24/10/2026 18:38:32 UTC
 <!--END_SECTION:waka-->
 
   ##
