@@ -19,7 +19,7 @@
 </div>
  
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-410%20hrs%201%20min-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-410%20hrs%203%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-25%20hrs%2021%20mins-blue?style=flat)
 
@@ -66,42 +66,23 @@ Sunday                   8 commits           █░░░░░░░░░░�
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-JavaScript               28 mins             ███████████████░░░░░░░░░░   59.70 % 
-Other                    7 mins              ████░░░░░░░░░░░░░░░░░░░░░   16.09 % 
-JSON                     6 mins              ████░░░░░░░░░░░░░░░░░░░░░   14.38 % 
-TSConfig                 4 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.67 % 
-Git Config               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.00 % 
+JavaScript               30 mins             █████████████████████████   99.85 % 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 % 
 
 🔥 Editors: 
-VS Code                  32 mins             █████████████████░░░░░░░░   66.66 % 
-Copilot CLI              16 mins             ████████░░░░░░░░░░░░░░░░░   33.34 % 
+VS Code                  30 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-sandbox-hyper-test-and-ex28 mins             ███████████████░░░░░░░░░░   58.85 % 
-dino-manager             19 mins             ██████████░░░░░░░░░░░░░░░   41.15 % 
+sandbox-hyper-test-and-ex30 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    48 mins             █████████████████████████   100.00 % 
+Linux                    30 mins             █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 20 mins (42.06%)
-
-✍️ 0 lines written by AI, 27 lines written by hand (0.0% AI-written)
-
-🔤 0 Input Tokens, 0 Output Tokens
-
-💵 $0.00 Estimated AI Cost This Week
-
-🧠 2 AI Sessions, 8 AI Prompts
-
-🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
-📝 Concise Prompter — average 311 characters per prompt
-🔁 Iterative Prompter — average 4 prompts per session
-🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
+No AI Coding Activity Tracked This Week
 ```
 
 **I Mostly Code in JavaScript** 
@@ -121,7 +102,7 @@ Nix                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/RafaSouzaReis/RafaSouzaReis/main/assets/bar_graph.png)
 
 
- Last Updated on 29/10/2026 18:34:57 UTC
+ Last Updated on 30/10/2026 18:32:07 UTC
 <!--END_SECTION:waka-->
 
   ##
